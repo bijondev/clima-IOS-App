@@ -49,4 +49,3 @@ switch conditionID {
 
 >This is a companion project to The Complete App Development Bootcamp, check out the full course at [www.bijon.me](https://www.bijon.me/)
 
-![End Banner](Documentation/readme-end-banner.png)
